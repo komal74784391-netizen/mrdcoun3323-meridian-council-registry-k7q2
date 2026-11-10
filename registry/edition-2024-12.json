@@ -1,1 +1,1084 @@
-{"a":1}
+{
+  "registry": "Meridian Trade Council - Council Membership Registry",
+  "edition": "2024-12",
+  "effective_from": "2024-12-15",
+  "status": "archived",
+  "note": "Edition in force for the FY2025 reporting year.",
+  "councils": [
+    {
+      "code": "C01",
+      "name": "Halcyon Metalworks Council",
+      "members": 32
+    },
+    {
+      "code": "C02",
+      "name": "Vantage Textile Council",
+      "members": 26
+    },
+    {
+      "code": "C03",
+      "name": "Brindlewood Agri-Food Council",
+      "members": 25
+    },
+    {
+      "code": "C04",
+      "name": "Northgate Maritime Council",
+      "members": 34
+    },
+    {
+      "code": "C05",
+      "name": "Solenne Chemical Council",
+      "members": 23
+    },
+    {
+      "code": "C06",
+      "name": "Kestrel Instruments Council",
+      "members": 28
+    },
+    {
+      "code": "C07",
+      "name": "Fairmont Timber Council",
+      "members": 5
+    }
+  ],
+  "members": [
+    {
+      "member_code": "MBR-1001",
+      "member_name": "Osprey Industries",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1002",
+      "member_name": "Denholm Canneries",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1003",
+      "member_name": "Harwick Thread Co",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1004",
+      "member_name": "Moorvale Spinners",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1005",
+      "member_name": "Norwood Stevedoring",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1006",
+      "member_name": "Verity Systems",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1007",
+      "member_name": "Moorvale Specialty Chem",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1008",
+      "member_name": "Penrose Ironworks",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1009",
+      "member_name": "Holloway Freight",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1010",
+      "member_name": "Kellaway Controls",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1011",
+      "member_name": "Garrick Devices",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1012",
+      "member_name": "Balfour Compounds",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1013",
+      "member_name": "Drayton Foods",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1014",
+      "member_name": "Grafton Solvents",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1015",
+      "member_name": "Garrick Shipping",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1016",
+      "member_name": "Dunmore Shipping",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1017",
+      "member_name": "Kellaway Compounds",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1018",
+      "member_name": "Greystone Weaving",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1019",
+      "member_name": "Ellery Precision",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1020",
+      "member_name": "Ainsley Controls",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1021",
+      "member_name": "Eastgate Loom Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1022",
+      "member_name": "Thorne Fabrics",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1023",
+      "member_name": "Elmsworth Castings",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1024",
+      "member_name": "Verity Foods",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1025",
+      "member_name": "Westerly Gauges",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1026",
+      "member_name": "Grafton Sensors",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1027",
+      "member_name": "Westerly Fabrics",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1028",
+      "member_name": "Rowan Ironworks",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1029",
+      "member_name": "Sallow Foundry",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1030",
+      "member_name": "Tavistock Lines",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1031",
+      "member_name": "Underhill Ferries",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1032",
+      "member_name": "Balfour Shipping",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1033",
+      "member_name": "Lomond Analytics",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1034",
+      "member_name": "Thorne Resins",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1035",
+      "member_name": "Penrose Catalysts",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1036",
+      "member_name": "Corwin Milling",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1037",
+      "member_name": "Juniper Cargo",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1038",
+      "member_name": "Aldrich Alloys",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1039",
+      "member_name": "Calder Agri Group",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1040",
+      "member_name": "Zephyr Labs",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1041",
+      "member_name": "Cresswell Lines",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1042",
+      "member_name": "Ingleby Grain Traders",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1043",
+      "member_name": "Hazeldene Foundry",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1044",
+      "member_name": "Ainsley Worsted Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1045",
+      "member_name": "Quarrier Metering",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1046",
+      "member_name": "Ivor Synthetics",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1047",
+      "member_name": "Juniper Dockworks",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1048",
+      "member_name": "Umber Devices",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1049",
+      "member_name": "Ivor Gauges",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1050",
+      "member_name": "Kirkby Smelting",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1051",
+      "member_name": "Holloway Analytics",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1052",
+      "member_name": "Cresswell Devices",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1053",
+      "member_name": "Aldrich Labs",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1054",
+      "member_name": "Rowan Loom Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1055",
+      "member_name": "Greystone Marine Services",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1056",
+      "member_name": "Verity Ferries",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1057",
+      "member_name": "Fenwick Freight",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1058",
+      "member_name": "Jarrow Analytics",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1059",
+      "member_name": "Ainsley Polymer Works",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1060",
+      "member_name": "Aldrich Freight",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1061",
+      "member_name": "Hazeldene Canneries",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1062",
+      "member_name": "Kellaway Staves",
+      "council_code": "C07",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1063",
+      "member_name": "Holloway Marine Services",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1064",
+      "member_name": "Juniper Loom Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1065",
+      "member_name": "Drayton Harvest",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1066",
+      "member_name": "Jarrow Provisions",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1067",
+      "member_name": "Cresswell Analytics",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1068",
+      "member_name": "Eastgate Foundry",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1069",
+      "member_name": "Yarrow Tugs",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1070",
+      "member_name": "Marchetti Sensors",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1071",
+      "member_name": "Balfour Metals",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1072",
+      "member_name": "Larkspur Mills",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1073",
+      "member_name": "Ivor Produce",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1074",
+      "member_name": "Oakwright Provisions",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1075",
+      "member_name": "Broomfield Specialty Chem",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1076",
+      "member_name": "Harwick Catalysts",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1077",
+      "member_name": "Grafton Foundry",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1078",
+      "member_name": "Ellery Shipping",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1079",
+      "member_name": "Tavistock Dairies",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1080",
+      "member_name": "Sallow Die Works",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1081",
+      "member_name": "Juniper Canneries",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1082",
+      "member_name": "Drayton Fabrication",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1083",
+      "member_name": "Grafton Maritime",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1084",
+      "member_name": "Fenwick Optics",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1085",
+      "member_name": "Sallow Lumber",
+      "council_code": "C07",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1086",
+      "member_name": "Fairweather Tugs",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1087",
+      "member_name": "Norwood Textiles",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1088",
+      "member_name": "Yardley Freight",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1089",
+      "member_name": "Marchetti Provisions",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1090",
+      "member_name": "Redmond Synthetics",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1091",
+      "member_name": "Ashby Milling",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1092",
+      "member_name": "Osprey Solvents",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1093",
+      "member_name": "Calder Smelting",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1094",
+      "member_name": "Underhill Ironworks",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1095",
+      "member_name": "Vale Optics",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1096",
+      "member_name": "Greystone Smelting",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1097",
+      "member_name": "Broomfield Tugs",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1098",
+      "member_name": "Jarrow Precision",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1099",
+      "member_name": "Ellery Foods",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1100",
+      "member_name": "Larkspur Metals",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1101",
+      "member_name": "Eastgate Produce",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1102",
+      "member_name": "Zephyr Lines",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1103",
+      "member_name": "Greystone Precision",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1104",
+      "member_name": "Osprey Tugs",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1105",
+      "member_name": "Garrick Die Works",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1106",
+      "member_name": "Whitlock Optics",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1107",
+      "member_name": "Ainsley Stevedoring",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1108",
+      "member_name": "Drayton Worsted Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1109",
+      "member_name": "Zephyr Resins",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1110",
+      "member_name": "Yardley Fabrics",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1111",
+      "member_name": "Moorvale Systems",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1112",
+      "member_name": "Elmsworth Rolling Works",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1113",
+      "member_name": "Aldrich Rolling Works",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1114",
+      "member_name": "Penrose Alloys",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1115",
+      "member_name": "Grafton Specialty Chem",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1116",
+      "member_name": "Zephyr Die Works",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1117",
+      "member_name": "Vale Knitwear",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1118",
+      "member_name": "Harwick Tugs",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1119",
+      "member_name": "Zephyr Weaving",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1120",
+      "member_name": "Moorvale Die Works",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1121",
+      "member_name": "Jessel Worsted Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1122",
+      "member_name": "Moorvale Holdings",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1123",
+      "member_name": "Selby Chemicals",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1124",
+      "member_name": "Harwick Weaving",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1125",
+      "member_name": "Kellaway Instruments",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1126",
+      "member_name": "Quarrier Foods",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1127",
+      "member_name": "Grafton Instruments",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1128",
+      "member_name": "Balfour Polymer Works",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1129",
+      "member_name": "Selby Creameries",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1130",
+      "member_name": "Kirkby Thread Co",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1131",
+      "member_name": "Pemberton Mills",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1132",
+      "member_name": "Aldrich Produce",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1133",
+      "member_name": "Larkspur Textiles",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1134",
+      "member_name": "Cresswell Mills",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1135",
+      "member_name": "Hazeldene Castings",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1136",
+      "member_name": "Grafton Catalysts",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1137",
+      "member_name": "Cresswell Consolidated",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1138",
+      "member_name": "Balfour Weaving",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1139",
+      "member_name": "Tavistock Sensors",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1140",
+      "member_name": "Bracken Maritime",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1141",
+      "member_name": "Fairweather Stevedoring",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1142",
+      "member_name": "Sallow Cargo",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1143",
+      "member_name": "Umber Dockworks",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1144",
+      "member_name": "Hazeldene Shipping",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1145",
+      "member_name": "Whitlock Stevedoring",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1146",
+      "member_name": "Calder Forge",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1147",
+      "member_name": "Elmsworth Maritime",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1148",
+      "member_name": "Tavistock Provisions",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1149",
+      "member_name": "Grafton Castings",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1150",
+      "member_name": "Broomfield Lumber",
+      "council_code": "C07",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1151",
+      "member_name": "Yardley Alloys",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1152",
+      "member_name": "Broomfield Metals",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1153",
+      "member_name": "Westerly Chemicals",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1154",
+      "member_name": "Broomfield Foods",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1155",
+      "member_name": "Calder Polymer Works",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1156",
+      "member_name": "Jarrow Fabrication",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1157",
+      "member_name": "Penrose Loom Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1158",
+      "member_name": "Holloway Creameries",
+      "council_code": "C03",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1159",
+      "member_name": "Balfour Devices",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1160",
+      "member_name": "Pemberton Thread Co",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1161",
+      "member_name": "Juniper Labs",
+      "council_code": "C05",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1162",
+      "member_name": "Ivor Worsted Works",
+      "council_code": "C02",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1163",
+      "member_name": "Balfour Plywood",
+      "council_code": "C07",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1164",
+      "member_name": "Netherby Metals",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1165",
+      "member_name": "Bracken Controls",
+      "council_code": "C06",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1166",
+      "member_name": "Fairweather Alloys",
+      "council_code": "C01",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1167",
+      "member_name": "Cresswell Dockworks",
+      "council_code": "C04",
+      "status": "active"
+    },
+    {
+      "member_code": "MBR-1901",
+      "member_name": "Wexford Marine Holdings",
+      "council_code": "C04",
+      "status": "withdrawn"
+    },
+    {
+      "member_code": "MBR-1902",
+      "member_name": "Barton Rolling Works",
+      "council_code": "C01",
+      "status": "withdrawn"
+    },
+    {
+      "member_code": "MBR-1903",
+      "member_name": "Trelawney Dairies",
+      "council_code": "C03",
+      "status": "withdrawn"
+    },
+    {
+      "member_code": "MBR-1904",
+      "member_name": "Marlowe Instruments",
+      "council_code": "C06",
+      "status": "withdrawn"
+    },
+    {
+      "member_code": "MBR-1905",
+      "member_name": "Hollis Specialty Chem",
+      "council_code": "C05",
+      "status": "withdrawn"
+    },
+    {
+      "member_code": "MBR-1906",
+      "member_name": "Ferrers Timber",
+      "council_code": "C07",
+      "status": "withdrawn"
+    }
+  ]
+}
